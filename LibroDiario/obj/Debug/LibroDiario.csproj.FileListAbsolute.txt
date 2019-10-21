@@ -1,0 +1,10 @@
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\bin\Debug\LibroDiario.exe.config
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\bin\Debug\LibroDiario.exe
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\bin\Debug\LibroDiario.pdb
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.csprojAssemblyReference.cache
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.Vista.resources
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.Properties.Resources.resources
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.csproj.GenerateResource.cache
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.csproj.CoreCompileInputs.cache
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.exe
+C:\Users\Anonimo\source\repos\LibroDiario\LibroDiario\obj\Debug\LibroDiario.pdb
